@@ -10,5 +10,11 @@
     "key": "user1",
     "expiresAt": "2025-07-10",
     "allowOffline": true
+  },
+  {
+    "id": "f1a4630955d35e88",
+    "key": "Ican",
+    "expiresAt": "2026-07-23",
+    "allowOffline": true
   }
 ]
