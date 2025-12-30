@@ -1,28 +1,11 @@
 {
   "dialogConfig": {
-    "enabled": true,
+    "enabled": "true",
     "version": "1.3.6",
-    "mandatory": false,
+    "mandatory": "True",
     "update_url": "https://t.me/melawanbudayadominan",
     "title": "Update Available",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
-    "socialLinks": [
-      {
-        "name": "facebook",
-        "url": "https://t.me/melawanbudayadominan"
-      },
-      {
-        "name": "twitter",
-        "url": "https://t.me/melawanbudayadominan"
-      },
-      {
-        "name": "instagram",
-        "url": "https://t.me/melawanbudayadominan"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://wa.me/6285161023070"
-      }
-    ]
+    "socialLinks": "[object Object],[object Object],[object Object],[object Object]"
   }
 }
