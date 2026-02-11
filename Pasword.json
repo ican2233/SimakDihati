@@ -16,5 +16,11 @@
     "key": "Ican",
     "expiresAt": "2026-07-23",
     "allowOffline": true
+  },
+  {
+    "id": "e908df71df0c5db3l",
+    "key": "Test",
+    "expiresAt": "2026-02-13",
+    "allowOffline": true
   }
 ]
